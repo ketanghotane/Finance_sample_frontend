@@ -1,0 +1,117 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___1_Class {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.LOGO_Class {
+	position: absolute;
+	left: 42px;
+	top: 34px;
+	overflow: hidden;
+	width: 145px;
+	height: 60px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 379px;
+	height: 95px;
+	left: 771px;
+	top: 625px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_1 {
+	filter: drop-shadow(1px 6px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 235.693px;
+	height: 74.827px;
+	left: 1652.307px;
+	top: 37.528px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Admin_Login_Class {
+	position: absolute;
+	left: 1663.138px;
+	top: 42.768px;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,247,247,1);
+}
+.Path_2 {
+	filter: drop-shadow(1px 6px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 246.693px;
+	height: 95.152px;
+	left: 845.307px;
+	top: 768.528px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Login_Class {
+	position: absolute;
+	left: 899px;
+	top: 771px;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,247,247,1);
+}
+.Register_Class {
+	position: absolute;
+	left: 869px;
+	top: 639px;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,247,247,1);
+}

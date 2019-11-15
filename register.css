@@ -1,0 +1,379 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___3_Class {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 858px;
+	height: 937px;
+	left: 531px;
+	top: 94px;
+}
+.LOGO_A2_Text_14_Class {
+	position: absolute;
+	left: 42px;
+	top: 34px;
+	overflow: hidden;
+	width: 145px;
+	height: 60px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 244.51px;
+	height: 61.535px;
+	left: 838px;
+	top: 919.465px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Register_Class {
+	position: absolute;
+	left: 896px;
+	top: 927px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,247,247,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 708.676px;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 582.507px;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 519.423px;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 456.338px;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 393.254px;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 771.761px;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 330.169px;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 267.085px;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 204px;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 385.311px;
+	height: 41.76px;
+	left: 960px;
+	top: 834.845px;
+}
+.Full_Name__Class {
+	position: absolute;
+	left: 789px;
+	top: 205px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Password__Class {
+	position: absolute;
+	left: 792px;
+	top: 457px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Email__Class {
+	position: absolute;
+	left: 850px;
+	top: 331px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Username__Class {
+	position: absolute;
+	left: 789px;
+	top: 394px;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Card_Type__Class {
+	position: absolute;
+	left: 790px;
+	top: 646px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Address__Class {
+	position: absolute;
+	left: 814px;
+	top: 583px;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Confirm_Password__Class {
+	position: absolute;
+	left: 678px;
+	top: 520px;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.IFSC_code__Class {
+	position: absolute;
+	left: 790px;
+	top: 835px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Account_Number__Class {
+	position: absolute;
+	left: 699px;
+	top: 772px;
+	overflow: visible;
+	width: 234px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Select_Bank__Class {
+	position: absolute;
+	left: 767px;
+	top: 709px;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Phone_No__Class {
+	position: absolute;
+	left: 790px;
+	top: 268px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(95,170,255,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 17px;
+	transform: matrix(1,0,0,1,1305,720) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 21px;
+	left: 960px;
+	top: 656px;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 21px;
+	left: 1170px;
+	top: 657px;
+}
+.LOGO_A2_Text_14_Class {
+	position: absolute;
+	left: 42px;
+	top: 34px;
+	overflow: hidden;
+	width: 145px;
+	height: 60px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Titanium_Class {
+	position: absolute;
+	left: 990px;
+	top: 650px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(95,170,255,1);
+}
+.Gold_Class {
+	position: absolute;
+	left: 1200px;
+	top: 650px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(95,170,255,1);
+}

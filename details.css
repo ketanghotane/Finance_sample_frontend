@@ -1,0 +1,606 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 8;
+	--web-view-id: Web_1920___8;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___8;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___8_Class {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 8;
+	--web-view-id: Web_1920___8;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.LOGO_Class {
+	position: absolute;
+	left: 42px;
+	top: 34px;
+	overflow: hidden;
+	width: 145px;
+	height: 60px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 1835px;
+	height: 76px;
+	left: 43px;
+	top: 158px;
+}
+.USER_DETAILS__Class {
+	position: absolute;
+	left: 71px;
+	top: 170px;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(39,69,103,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 272px;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 270px;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1623.982px;
+	top: 272px;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 342px;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 410px;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 412px;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 340px;
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1622.982px;
+	top: 412px;
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1624.982px;
+	top: 340px;
+}
+.Name_Class {
+	position: absolute;
+	left: 89px;
+	top: 276px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Account_Number_Class {
+	position: absolute;
+	left: 975.823px;
+	top: 278px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Path_5 {
+	filter: drop-shadow(1px 6px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 235.693px;
+	height: 74.827px;
+	left: 1642.307px;
+	top: 37.528px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Logout_Class {
+	position: absolute;
+	left: 1700.138px;
+	top: 39.768px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,247,247,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 272px;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 344px;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 412px;
+}
+.EMAIL_Class {
+	position: absolute;
+	left: 268.116px;
+	top: 282px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 270px;
+}
+.Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 342px;
+}
+.Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 410px;
+}
+.all_other_columns____Class {
+	position: absolute;
+	left: 462px;
+	top: 280px;
+	overflow: visible;
+	width: 344px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 270px;
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 342px;
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 410px;
+}
+.Edit_Class {
+	position: absolute;
+	left: 1466px;
+	top: 281px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Activate_Class {
+	position: absolute;
+	left: 1693px;
+	top: 279px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(252,252,252,1);
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 342px;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 410px;
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 412px;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 340px;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1622.982px;
+	top: 412px;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1624.982px;
+	top: 340px;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 344px;
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 412px;
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 342px;
+}
+.Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 410px;
+}
+.Rectangle_55 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 342px;
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 410px;
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 491px;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 559px;
+}
+.Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 561px;
+}
+.Rectangle_60 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 489px;
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1622.982px;
+	top: 561px;
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1624.982px;
+	top: 489px;
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 493px;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 561px;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 491px;
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 559px;
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 491px;
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 559px;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 640px;
+}
+.Rectangle_70 {
+	position: absolute;
+	overflow: visible;
+	width: 533.646px;
+	height: 72px;
+	left: 860px;
+	top: 708px;
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 710px;
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 195.914px;
+	height: 72px;
+	left: 42px;
+	top: 638px;
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1622.982px;
+	top: 710px;
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 254.018px;
+	height: 72px;
+	left: 1624.982px;
+	top: 638px;
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 642px;
+}
+.Rectangle_76 {
+	position: absolute;
+	overflow: visible;
+	width: 187.003px;
+	height: 72px;
+	left: 238px;
+	top: 710px;
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 640px;
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 431.535px;
+	height: 72px;
+	left: 428px;
+	top: 708px;
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 640px;
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 229.357px;
+	height: 72px;
+	left: 1393.646px;
+	top: 708px;
+}
